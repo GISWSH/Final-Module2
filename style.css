@@ -704,11 +704,7 @@ VALUES
     padding: 32px 64px 32px 0;
 }
 
-/*
-
-PRICING
-
-*/
+/* PRICING */
 
 #pricing .row {
     display: flex;
@@ -723,7 +719,6 @@ PRICING
 
 .plans {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
     position: relative;
@@ -1490,7 +1485,7 @@ footer {
         line-height: 1.25;
     }
     .container {
-        padding: 80px 0;
+        padding: 96px 0;
     }
     .nav__logo {
         margin: 8px 0;
